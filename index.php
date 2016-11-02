@@ -6,7 +6,7 @@
 </head>
 
 <body>
-2nd project
+2ns project
 
 this is a change
 
