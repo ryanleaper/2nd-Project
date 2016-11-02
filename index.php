@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Untitled Document</title>
+<title>2nd Project</title>
 </head>
 
 <body>
@@ -10,6 +10,6 @@
 
 this is a change
 
-this is another change
+this is another change.
 </body>
 </html>
